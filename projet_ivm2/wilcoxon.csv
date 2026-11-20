@@ -1,0 +1,17 @@
+problem,ref,W,p,median_diff,better,signif_005,signif_bonf
+berlin52,ga,0.0,1.862645149230957e-09,-4504.614610575346,hybride,True,True
+berlin52,ga_low,68.0,0.0003800932317972183,394.00375826072104,référence,True,True
+berlin52,fixed,56.0,0.00011058151721954346,-772.7460612884652,hybride,True,True
+berlin52,random,53.0,7.910653948783875e-05,-1318.80826795736,hybride,True,True
+knapsack_50,ga,43.5,0.00016767450481322736,-13.5,hybride,True,True
+knapsack_50,ga_low,86.0,0.03895635541088105,6.0,référence,True,False
+knapsack_50,fixed,76.0,0.03404969803729362,4.0,référence,True,False
+knapsack_50,random,45.0,0.008045752672325095,4.5,référence,True,True
+rastrigin_d10,ga,177.0,0.2621222734451294,0.9950812877932975,référence,False,False
+rastrigin_d10,ga_low,223.0,0.8552717231214046,-0.00154734963226133,hybride,False,False
+rastrigin_d10,fixed,215.0,0.7303419969975948,-0.0007380229798101823,hybride,False,False
+rastrigin_d10,random,198.0,0.4898460879921913,-0.4980900970201958,hybride,False,False
+rosenbrock_d10,ga,122.0,0.022098854184150696,2.010510659481264,référence,True,False
+rosenbrock_d10,ga_low,214.0,0.7151329666376114,-0.14245715853768254,hybride,False,False
+rosenbrock_d10,fixed,185.0,0.338741784915328,-0.20765339935902638,hybride,False,False
+rosenbrock_d10,random,204.0,0.5698575973510742,-0.3241011501872699,hybride,False,False
